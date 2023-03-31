@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Whoops! - Under Maintenance</title>
+  <link rel="shortcut icon" href="/error-page-img/G-favicon.ico">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      font-size: 16px;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      min-height: 50px;
+      background-color: #ffffff;
+    }
+
+    .head-text {
+      text-transform: uppercase;
+      width: 250px;
+      height: auto;
+      padding: 20px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .head-text, .main-wrapper {
+      width: 80%;
+      margin: auto;
+    }
+
+    .main-wrapper {
+      display: flex;
+    }
+
+    .scarecrow-img {
+      display: flex;
+      justify-content: flex-end;
+      width: 70%;
+    }
+
+    .scarecrow-img img {
+      width: 70%;
+      height: auto;
+      animation-name: floating;
+      animation-duration: 5s;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out;
+    }
+
+    @keyframes floating {
+      0% {
+        opacity: 0.8;
+        transform: scale(1);
+      }
+      50% {
+        opacity: 1;
+        transform: scale(1.03);
+      }
+      100% {
+        opacity: 0.8;
+        transform: scale(1);
+      }
+    }
+
+    .error-text {
+      display: flex; 
+      flex-direction: column;
+      justify-content: center; 
+    }
+
+    .error-text h2 {
+      width: 80%;
+      font-size: 3.75rem;
+      letter-spacing: 0.5px;
+      font-weight: bold;
+    }
+
+    .error-text p {
+      font-size: 15px;
+      width: 50%;
+      padding: 5px;
+      padding-right: 40%;
+      font-weight: bold;
+    }
+
+    button {
+      cursor: pointer;
+      width: auto;
+      padding: 15px;
+      border: 0px solid #f39905;
+      border-radius: 10px;
+      color: white;
+      background-color: #f39905;
+      margin-top: 15px;
+      font-size: 15px;
+      font-weight: bold;
+      transition: background-color 0.2s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #a76000;
+    }
+
+    footer {
+      padding: 15px;
+      text-align: center;
+      min-height: 50px;
+      margin-top: auto;
+      background-color: #dfdfdf;
+    }
+
+    /* star mobile-first media queries */
+
+    /* Small devices (landscape phones, 576px and up) */
+
+
+    /* Medium devices (tablets, 768px and up) */
+    @media (max-width: 991.9px) { 
+      .scarecrow-img {
+        display:flex;
+        justify-content: flex-start;
+      }
+
+      .main-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .error-text h2 {
+        width: 100%;
+        font-size: 3rem;
+        line-height: 100%;
+        padding-top: 15px;
+      }
+
+      .error-text p {
+        font-size: 15px;
+        width: 100%;
+        line-height: 150%;
+        padding-top: 15px;
+      }
+    }
+
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) { 
+      .error-text h2 {
+        width: 100%;
+        line-height: 100%;
+        padding-top: 15px;
+      }
+
+      .error-text p {
+        font-size: 15px;
+        width: 100%;
+        line-height: 150%;
+        padding-top: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <body>
+    <header>
+      <div class="head-text">
+        <p>Growth Tech Indonesia</p>
+      </div>
+    </header>
+    <main>
+      <div class="main-wrapper">
+        <picture class="scarecrow-img">
+          <img src="/error-page-img/Developer-activity.svg" alt="scarecrow">
+        </picture>
+        <div class="error-text">
+          <h2>Whoops!</h2>
+          <p><span style="color:#f39905;">Gtechindo</span> stay here...<br><br>We apologize for the inconvenience,<br>but our <span style="color:#f39905;">main page</span> is currently <span style="color:#f39905;">undergoing maintenance</span> to improve your experience.<br><br>Please check back soon for updates<br>or get in touch with secondary page.</p>
+          <span class="input-group-btn">
+            <form action="https://gtechindo-vcard.odoo.com/">
+              <button class="btn" type="submit">Go To Second Page</button>
+            </form>
+          </span>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p><i class="far fa-copyright"></i>&copy; 2023 Gtechindo - Growth Tech Indonesia .PT</p>
+    </footer>
+  </body>
+</body>
+</html>
+
