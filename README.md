@@ -19,6 +19,6 @@ directly related to any file or other website that is organized on the published
 
 ## License
 
-MIT
+### BSD 3-Clause "New" or "Revised"
 
-**Free Software, Hell Yeah!**
+## Get in touch with Email for more informations
