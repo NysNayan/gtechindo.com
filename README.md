@@ -17,6 +17,8 @@ directly related to any file or other website that is organized on the published
 | Editor | https://github.com/NysNayan |
 | 2nd Page | https://gtechindo-vcard.odoo.com |
 
-## License : BSD 3-Clause "New" or "Revised"
+## License
+BSD 3-Clause "New" or "Revised"
 
-## Get in touch with Email for more informations
+## More Information
+Get in touch with Email
