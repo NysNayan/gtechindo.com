@@ -8,9 +8,7 @@ directly related to any file or other website that is organized on the published
 | Country | Indonesia |
 | Domain | gtechindo.com |
 | Website | https://gtechindo.com |
-| Email | info@gtechindo.com |
-| Service | https://www.niagahoster.co.id |
-| Control | cPanel |
+| Service | cPanel |
 | Database | Google Firebase |
 | Published | 30/03/2023 |
 | Template | https://www.themeum.com |
