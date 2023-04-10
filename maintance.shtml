@@ -72,11 +72,11 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">                 
-            <li class="scroll active"><a href="https://gtechindo.com/#home">Home</a></li>
-            <li class="scroll"><a href="https://gtechindo.com/#services">Services</a></li> 
-            <li class="scroll"><a href="https://gtechindo.com/#about-us">About Us</a></li>                     
-            <li class="scroll"><a href="https://gtechindo.com/#portfolio">Portfolio</a></li>
-            <li class="scroll"><a href="https://gtechindo.com/#contact">Contact</a></li>
+            <li class="scroll active"><a href="https://gtechindo-vcard.odoo.com/">Home</a></li>
+            <li class="scroll"><a href="https://gtechindo-vcard.odoo.com/">Services</a></li> 
+            <li class="scroll"><a href="https://gtechindo-vcard.odoo.com/">About Us</a></li>                     
+            <li class="scroll"><a href="https://gtechindo-vcard.odoo.com/ourworks">Portfolio</a></li>
+            <li class="scroll"><a href="https://gtechindo-vcard.odoo.com/contactus">Contact</a></li>
             <li class="dropdown">
               <a class="dropbtn" aria-haspopup="true" aria-expanded="false">Language&nbsp;&nbsp;<i class="fa fa-language"></i></a>
               <div class="dropdown-content">
@@ -93,23 +93,23 @@
       </div>
     </div><!--/#main-nav-->
   </header><!--/#home-->
-  <section id="404" class="parallax">
+  <section id="maintance" class="parallax">
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
           <div class="our-skills wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="single-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-              <img class="pics-logo" src="/error-page-img/404.svg">
+              <img class="pics-logo" src="/error-page-img/Developer-activity.svg">
             </div>
           </div>
         </div>
         <div class="col-sm-6">
           <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <h2><b>404,</b> You're Lost!</h2>
-            <p><b>The page you are looking for does not exist.</b><br><br>How you got here is a mystery.<br>But you can click the button below to go back to the homepage.</p>
+            <h2><b>Whoops!</b></h2>
+            <p><span style="color:#f39905;"><b>Gtechindo</b></span><b> stay here...</b><br><br>We apologize for the inconvenience,<br>but our <span style="color:#f39905;">main page</span> is currently <span style="color:#f39905;">undergoing maintenance</span> to improve your experience.<br><br>Please check back soon for updates<br>or get in touch with secondary page.</p>
            </div>
           <div class="about-compro wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <a class="btn btn-primary" href="https://gtechindo.com/#home"><i class="fa fa-home"></i>&nbsp;&nbsp;Home Page</a>
+            <a class="btn btn-primary" href="https://gtechindo-vcard.odoo.com/"><i class="fa fa-home"></i>&nbsp;&nbsp;Secondary Page</a>
           </div>
         </div>
       </div>
