@@ -1,0 +1,10 @@
+
+User-agent: *
+Allow: /
+Disallow: /info
+Disallow: /src
+
+User-Agent: Googlebot-Image
+Allow: /images
+
+Sitemap: https://gtechindo.com/sitemap.xml
