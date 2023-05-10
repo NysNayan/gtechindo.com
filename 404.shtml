@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Whoops! - Gtechindo</title>
+  <title>Whoops! 404 - Gtechindo</title>
   <meta name="author" content="https://github.com/NysNayan">
   <meta name="copyright" content="2023">
   
@@ -107,9 +107,12 @@
           <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
             <h2><b>404,</b> You're Lost!</h2>
             <p><b>The page you are looking for does not exist.</b><br><br>How you got here is a mystery.<br>But you can click the button below to go back to the homepage.</p>
-           </div>
+          </div>
           <div class="about-compro wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
             <a class="btn btn-primary" href="https://gtechindo.com/#home"><i class="fa fa-home"></i>&nbsp;&nbsp;Home Page</a>
+          </div>
+          <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <p style="color: #ff3f3f;"><br>Error code: 404</p>
           </div>
         </div>
       </div>

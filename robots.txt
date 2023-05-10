@@ -1,6 +1,7 @@
 
 User-agent: *
 Allow: /
+Allow: /direct
 Disallow: /info
 Disallow: /src
 

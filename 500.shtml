@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Whoops! 400 - Gtechindo</title>
+  <title>Whoops! 500 - Gtechindo</title>
   <meta name="author" content="https://github.com/NysNayan">
   <meta name="copyright" content="2023">
   
@@ -93,26 +93,26 @@
       </div>
     </div><!--/#main-nav-->
   </header><!--/#home-->
-  <section id="400" class="parallax">
+  <section id="500" class="parallax">
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
           <div class="our-skills wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="single-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-              <img class="pics-logo" src="/error-page-img/400.svg">
+              <img class="pics-logo" src="/error-page-img/500.svg">
             </div>
           </div>
         </div>
         <div class="col-sm-6">
           <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <h2><b>400,</b> Sorry!</h2>
-            <p><b>We cannot process your request at the moment. </b><br><br>Please check your input and try again. If the problem persists, please contact our support team for assistance.</p>
+            <h2><b>500,</b> That's an error!</h2>
+            <p><b>Whoops, something went wrong.</b><br><br>Try to refresh this page or feel free to contact us if the problem persists.<br>Email redirect options are available for those of you who need assistance.</p>
           </div>
           <div class="about-compro wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <a class="btn btn-primary" href="mailto:info@gtechindo.com?subject=I%20got%20Error%20code%20400%20in%20gtechindo.com"><i class="fa fa-envelope"></i>&nbsp;&nbsp;Contact Us</a>
+            <a class="btn btn-primary" href="mailto:info@gtechindo.com?subject=I%20got%20Error%20code%20500%20in%20gtechindo.com"><i class="fa fa-envelope"></i>&nbsp;&nbsp;Email now</a>
           </div>
           <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <p style="color: #ff3f3f;"><br>Error code: 400</p>
+            <p style="color: #ff3f3f;"><br>Error code: 500</p>
           </div>
         </div>
       </div>
